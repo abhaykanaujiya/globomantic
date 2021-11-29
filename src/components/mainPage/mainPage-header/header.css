@@ -1,0 +1,15 @@
+.container {
+  margin: 10 0px 0 10px;
+  background-color: olive;
+}
+
+.rounded {
+  width: 200px;
+  height: 190px;
+}
+.row {
+  align-items: center;
+}
+.subtitle {
+  text-align: center;
+}
