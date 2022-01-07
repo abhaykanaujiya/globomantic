@@ -13,7 +13,7 @@ const Inquiry = () => {
 
   const onSubmit = (e) => {
     e.preventDefault();
-    console.log(contactInfo);
+    console.log(contactInfo,"client info");
     //send
   };
   return (
